@@ -122,7 +122,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-    - host: wordpress.babarzahoor.com
+    - host: www.dockubelab.xyz
       http:
         paths:
           - path: /
